@@ -21,7 +21,7 @@ Projeto de treinamento, de docker que visa criar containers através do docker c
 
 Com o tempo será adicionados mais projetos
 
-### Gera ambiente de teste
+### Gerar ambiente de teste
 
 - Necessário ter apenas o docker e o docker-compose instaladao na maquina.
 
